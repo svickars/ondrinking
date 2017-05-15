@@ -1,0 +1,833 @@
+[{
+  "name": "American Amber Ale"
+}, {
+  "name": "American Pale Ale"
+}, {
+  "name": "English Bitter"
+}, {
+  "name": "Blonde Ale"
+}, {
+  "name": "American Amber Lager"
+}, {
+  "name": "Dunkel"
+}, {
+  "name": "Oktoberfest"
+}, {
+  "name": "Vienna Lager"
+}, {
+  "name": "German Lager"
+}, {
+  "name": "American Brown Ale"
+}, {
+  "name": "English Brown Ale"
+}, {
+  "name": "American IPA"
+}, {
+  "name": "English IPA"
+}, {
+  "name": "American Wheat"
+}, {
+  "name": "Belgian Witbier"
+}, {
+  "name": "Berliner Weisse"
+}, {
+  "name": "Dunkelweizen"
+}, {
+  "name": "Hefeweizen"
+}, {
+  "name": "American Barley Wine"
+}, {
+  "name": "American Imperal Red Ale"
+}, {
+  "name": "English Old Ale"
+}, {
+  "name": "Belgian Blonde Ale"
+}, {
+  "name": "Dubbel"
+}, {
+  "name": "Saison"
+}, {
+  "name": "Tripel"
+}, {
+  "name": "American Cream Ale"
+}, {
+  "name": "German Altbier"
+}, {
+  "name": "German Kolsch"
+}, {
+  "name": "Irish Red"
+}, {
+  "name": "American Imperial Porter"
+}, {
+  "name": "Baltic Porter"
+}, {
+  "name": "English Brown Porter"
+}, {
+  "name": "American Imperial Stout"
+}, {
+  "name": "American Stout"
+}, {
+  "name": "English Oatmeal Stout"
+}, {
+  "name": "English Milk Stout"
+}, {
+  "name": "Irish Dry Stout"
+}, {
+  "name": "German Bock"
+}, {
+  "name": "German Doppelbock"
+}, {
+  "name": "German Maibock"
+}, {
+  "name": "German Weizenbock"
+}, {
+  "name": "Scotch Ale/Wee Heavy"
+}, {
+  "name": "Scottish Ale"
+}, {
+  "name": "American Brett"
+}, {
+  "name": "American Sour"
+}, {
+  "name": "Belgian Flanders"
+}, {
+  "name": "Fruit Lambic"
+}, {
+  "name": "Gueuze"
+}, {
+  "name": "Contemporary Gose"
+}, {
+  "name": "American Lager"
+}, {
+  "name": "Bohemian Pilsner"
+}, {
+  "name": "European Export"
+}, {
+  "name": "German Helles"
+}, {
+  "name": "German Pilsner"
+}, {
+  "name": "American Black Ale"
+}, {
+  "name": "Chocolate Beer"
+}, {
+  "name": "Coffee Beer"
+}, {
+  "name": "Malbec"
+}, {
+  "name": "Bordeaux Blend"
+}, {
+  "name": "Syrah/Shiraz"
+}, {
+  "name": "Mourvèdre"
+}, {
+  "name": "Pinotage"
+}, {
+  "name": "Petite Sirah"
+}, {
+  "name": "Touriga Nacional"
+}, {
+  "name": "Cabernet Sauvignon"
+}, {
+  "name": "Meritage"
+}, {
+  "name": "Merlot"
+}, {
+  "name": "Côtes du Rhône Blend"
+}, {
+  "name": "Sangiovese"
+}, {
+  "name": "Zinfandel"
+}, {
+  "name": "Cabernet Franc"
+}, {
+  "name": "Barbera"
+}, {
+  "name": "Tempranillo"
+}, {
+  "name": "Nebbiolo"
+}, {
+  "name": "Pinot Noir"
+}, {
+  "name": "Grenache"
+}, {
+  "name": "Gamay"
+}, {
+  "name": "St. Laurent"
+}, {
+  "name": "Carignan"
+}, {
+  "name": "Counoise"
+}, {
+  "name": "Provençal Rosé"
+}, {
+  "name": "Saignée Method Rosé"
+}, {
+  "name": "Loire Valley Rosé"
+}, {
+  "name": "Pinot Noir Rosé"
+}, {
+  "name": "Syrah Rosé"
+}, {
+  "name": "Brandol Rosé"
+}, {
+  "name": "White Zinfandel"
+}, {
+  "name": "Garnacha Rosado"
+}, {
+  "name": "Tempranillo Rosé"
+}, {
+  "name": "Chardonnay"
+}, {
+  "name": "Sémillon"
+}, {
+  "name": "Viognier"
+}, {
+  "name": "Marsanne"
+}, {
+  "name": "Roussanne"
+}, {
+  "name": "Sauvignon Blanc"
+}, {
+  "name": "Vermentino"
+}, {
+  "name": "Pinot Blanc"
+}, {
+  "name": "Albariño"
+}, {
+  "name": "Melon de Bourgogne"
+}, {
+  "name": "Gargenega"
+}, {
+  "name": "Trebbiano"
+}, {
+  "name": "Pinot Gris / Pinot Grigio"
+}, {
+  "name": "Moscato"
+}, {
+  "name": "Riesling"
+}, {
+  "name": "Chenin Blanc"
+}, {
+  "name": "Gewürztraminer"
+}, {
+  "name": "Late Harvest Whites"
+}, {
+  "name": "Alsacian Pinot Gris"
+}, {
+  "name": "Champagne"
+}, {
+  "name": "Prosecco"
+}, {
+  "name": "Crémant"
+}, {
+  "name": "Cava"
+}, {
+  "name": "Metodo Classico"
+}, {
+  "name": "Sparkling Wine"
+}, {
+  "name": "Sparkling Rosé"
+}, {
+  "name": "Port"
+}, {
+  "name": "Sherry"
+}, {
+  "name": "Madeiro"
+}, {
+  "name": "Vin Santo"
+}, {
+  "name": "Muscat"
+}, {
+  "name": "Pedro Ximénez"
+}, {
+  "name": "Syrah"
+}, {
+  "name": "Shiraz"
+}, {
+  "name": "mourvedree"
+}, {
+  "name": "Cotes du Rhone Blend"
+}, {
+  "name": "Provencal Rose"
+}, {
+  "name": "Saignee Method Rose"
+}, {
+  "name": "Loire Valley Rose"
+}, {
+  "name": "Pinot Noir Rose"
+}, {
+  "name": "Syrah Rose"
+}, {
+  "name": "Brandol Rose"
+}, {
+  "name": "Tempranillo Rose"
+}, {
+  "name": "Semillon"
+}, {
+  "name": "Albarino"
+}, {
+  "name": "Gewurztraminer"
+}, {
+  "name": "Cremant"
+}, {
+  "name": "Sparkling Rose"
+}, {
+  "name": "Pedro Zimenez"
+}, {
+  "name": "7-up"
+}, {
+  "name": "amaretto"
+}, {
+  "name": "apple schnapps"
+}, {
+  "name": "apricot brandy"
+}, {
+  "name": "Beer"
+}, {
+  "name": "benedictine"
+}, {
+  "name": "bitters"
+}, {
+  "name": "blackberry brandy"
+}, {
+  "name": "blackcurrant liqeure"
+}, {
+  "name": "Blackcurrant Syrup"
+}, {
+  "name": "blue curacao"
+}, {
+  "name": "bourbon"
+}, {
+  "name": "brandy"
+}, {
+  "name": "Brown Ale"
+}, {
+  "name": "brown sugar"
+}, {
+  "name": "Campari"
+}, {
+  "name": "Champagne"
+}, {
+  "name": "cherry"
+}, {
+  "name": "cherry liqueur"
+}, {
+  "name": "chile"
+}, {
+  "name": "cider"
+}, {
+  "name": "cinnamon schnapps"
+}, {
+  "name": "Club Soda"
+}, {
+  "name": "coconut cream"
+}, {
+  "name": "coffee liqueur"
+}, {
+  "name": "cognac"
+}, {
+  "name": "cointreau"
+}, {
+  "name": "cola"
+}, {
+  "name": "cranberry juice"
+}, {
+  "name": "cream"
+}, {
+  "name": "Cream Liqueur"
+}, {
+  "name": "creme de cacao"
+}, {
+  "name": "creme de menthe"
+}, {
+  "name": "creme de noya"
+}, {
+  "name": "Dark Ale"
+}, {
+  "name": "dark cacao"
+}, {
+  "name": "dark rum"
+}, {
+  "name": "drambuie"
+}, {
+  "name": "galliano"
+}, {
+  "name": "gin"
+}, {
+  "name": "ginger beer"
+}, {
+  "name": "golden rum"
+}, {
+  "name": "grenadine"
+}, {
+  "name": "Hot coffee"
+}, {
+  "name": "irish cream"
+}, {
+  "name": "irish whiskey"
+}, {
+  "name": "jagermeister"
+}, {
+  "name": "kiwi liqueur"
+}, {
+  "name": "lager"
+}, {
+  "name": "lemon juice"
+}, {
+  "name": "lemonade"
+}, {
+  "name": "Light Ale"
+}, {
+  "name": "light beer"
+}, {
+  "name": "light rum"
+}, {
+  "name": "lime juice"
+}, {
+  "name": "lime wedge"
+}, {
+  "name": "maraschino liqueur"
+}, {
+  "name": "melon liqueur"
+}, {
+  "name": "mint"
+}, {
+  "name": "mint cream liquere"
+}, {
+  "name": "olive"
+}, {
+  "name": "olive brine"
+}, {
+  "name": "onion"
+}, {
+  "name": "orange curacao"
+}, {
+  "name": "Orange juice"
+}, {
+  "name": "orange liqueur"
+}, {
+  "name": "orange slice"
+}, {
+  "name": "Pale ale"
+}, {
+  "name": "passionfruit syrup"
+}, {
+  "name": "peach liqueur"
+}, {
+  "name": "Peach Schnapps"
+}, {
+  "name": "pepper"
+}, {
+  "name": "pineapple juice"
+}, {
+  "name": "raspberry liqueur"
+}, {
+  "name": "red bull"
+}, {
+  "name": "rum"
+}, {
+  "name": "rye whisky"
+}, {
+  "name": "salt"
+}, {
+  "name": "Scotch"
+}, {
+  "name": "simple syrup"
+}, {
+  "name": "Sour Mix"
+}, {
+  "name": "sprite"
+}, {
+  "name": "Stout"
+}, {
+  "name": "sugar"
+}, {
+  "name": "Sweet Vermouth"
+}, {
+  "name": "tabasco"
+}, {
+  "name": "Tequila"
+}, {
+  "name": "Tomato Juice"
+}, {
+  "name": "tonic water"
+}, {
+  "name": "triple sec"
+}, {
+  "name": "vanilla true cream"
+}, {
+  "name": "vermouth"
+}, {
+  "name": "vodka"
+}, {
+  "name": "water"
+}, {
+  "name": "whipped cream"
+}, {
+  "name": "whiskey"
+}, {
+  "name": "white rum"
+}, {
+  "name": "worcestershire sauce"
+}, {
+  "name": "Australia"
+}, {
+  "name": "Austria"
+}, {
+  "name": "Canada"
+}, {
+  "name": "Croatia"
+}, {
+  "name": "Czech Republic"
+}, {
+  "name": "France"
+}, {
+  "name": "Germany"
+}, {
+  "name": "Hungary"
+}, {
+  "name": "Italy"
+}, {
+  "name": "Luxembourg"
+}, {
+  "name": "Mexico"
+}, {
+  "name": "New Zealand"
+}, {
+  "name": "Others"
+}, {
+  "name": "Portugal"
+}, {
+  "name": "Romania"
+}, {
+  "name": "Slovakia"
+}, {
+  "name": "South Africa"
+}, {
+  "name": "South America"
+}, {
+  "name": "Spain"
+}, {
+  "name": "USA"
+}, {
+  "name": "Beer"
+}, {
+  "name": "Ales"
+}, {
+  "name": "Lagers"
+}, {
+  "name": "Lambics"
+}, {
+  "name": "Belgian Styles"
+}, {
+  "name": "Bocks"
+}, {
+  "name": "Brown Ale"
+}, {
+  "name": "Dark Lagers"
+}, {
+  "name": "Hybrid Beers"
+}, {
+  "name": "India Pale Ales"
+}, {
+  "name": "Pale Ale"
+}, {
+  "name": "Pilsners / Pale Lagers"
+}, {
+  "name": "Porters"
+}, {
+  "name": "Scottish Ales"
+}, {
+  "name": "Specialty Ales"
+}, {
+  "name": "Stouts"
+}, {
+  "name": "Strong Ales"
+}, {
+  "name": "Wheat Beers"
+}, {
+  "name": "Wild Sour Beers"
+}, {
+  "name": "Wine"
+}, {
+  "name": "Red"
+}, {
+  "name": "Rose"
+}, {
+  "name": "White"
+}, {
+  "name": "Sparkling"
+}, {
+  "name": "Dessert"
+}, {
+  "name": "Soft Bold Red"
+}, {
+  "name": "Tannic Bold Red"
+}, {
+  "name": "Soft Medium Red"
+}, {
+  "name": "Spicy Medium Red"
+}, {
+  "name": "Tannic Medium Red"
+}, {
+  "name": "Light Red"
+}, {
+  "name": "Dry Rosé"
+}, {
+  "name": "Off-Dry Rosé"
+}, {
+  "name": "Rich White"
+}, {
+  "name": "Floral Light White"
+}, {
+  "name": "Citrusy Light White"
+}, {
+  "name": "Sweet White"
+}, {
+  "name": "Cocktail"
+}, {
+  "name": "Cider"
+}, {
+  "name": "Mixed Beer"
+}, {
+  "name": "Beer Bombs"
+}, {
+  "name": "Wine"
+}, {
+  "name": "Tequila"
+}, {
+  "name": "Brandy/Cognac"
+}, {
+  "name": "Vodka"
+}, {
+  "name": "Whisky"
+}, {
+  "name": "Rum"
+}, {
+  "name": "Gin"
+}, {
+  "name": "Mixed Drink"
+}, {
+  "name": "Liqueur"
+}, {
+  "name": "Almond"
+}, {
+  "name": "Apple"
+}, {
+  "name": "Beer"
+}, {
+  "name": "Blackberry"
+}, {
+  "name": "Brandy"
+}, {
+  "name": "Cherry"
+}, {
+  "name": "Chocolate"
+}, {
+  "name": "Cider"
+}, {
+  "name": "Cinnamon"
+}, {
+  "name": "Citrus"
+}, {
+  "name": "Coffee"
+}, {
+  "name": "Cola"
+}, {
+  "name": "Cranberry"
+}, {
+  "name": "Fruit"
+}, {
+  "name": "Gin"
+}, {
+  "name": "Lager"
+}, {
+  "name": "Lemon"
+}, {
+  "name": "Licorice"
+}, {
+  "name": "Lime"
+}, {
+  "name": "Melon"
+}, {
+  "name": "Milkshake"
+}, {
+  "name": "Mint"
+}, {
+  "name": "Olive"
+}, {
+  "name": "Orange"
+}, {
+  "name": "Peach"
+}, {
+  "name": "Pineapple"
+}, {
+  "name": "Rum"
+}, {
+  "name": "Spicy"
+}, {
+  "name": "Sweet"
+}, {
+  "name": "Tea"
+}, {
+  "name": "Tomato"
+}, {
+  "name": "Whisky"
+}, {
+  "name": "Diesel"
+}, {
+  "name": "Baked Apple"
+}, {
+  "name": "Red Horn"
+}, {
+  "name": "Devon Gin"
+}, {
+  "name": "Red Eye"
+}, {
+  "name": "Shandy"
+}, {
+  "name": "Black and Tan"
+}, {
+  "name": "English Boilermaker"
+}, {
+  "name": "Snake Bite"
+}, {
+  "name": "Lunch Box"
+}, {
+  "name": "Dr Pepper"
+}, {
+  "name": "Irish Car Bomb"
+}, {
+  "name": "Dog's Nose"
+}, {
+  "name": "American Boilermaker"
+}, {
+  "name": "Mimosa"
+}, {
+  "name": "Fuzzy Navel"
+}, {
+  "name": "Bellini"
+}, {
+  "name": "Americano"
+}, {
+  "name": "Bronx"
+}, {
+  "name": "Black Velvet"
+}, {
+  "name": "Rob Roy"
+}, {
+  "name": "Tequila Sunrise"
+}, {
+  "name": "Tequila Sunset"
+}, {
+  "name": "Margarita"
+}, {
+  "name": "Angel's Wing"
+}, {
+  "name": "Sidecar"
+}, {
+  "name": "French Connection"
+}, {
+  "name": "B&B"
+}, {
+  "name": "Cape Cod"
+}, {
+  "name": "Sex on the Beach"
+}, {
+  "name": "Bloody Mary"
+}, {
+  "name": "Laughing Buddha"
+}, {
+  "name": "Screwdriver"
+}, {
+  "name": "Screaming Orgasm"
+}, {
+  "name": "Lemon Drop"
+}, {
+  "name": "Vodka Gimlet"
+}, {
+  "name": "Cosmopolitan"
+}, {
+  "name": "Apple Martini"
+}, {
+  "name": "White Russian"
+}, {
+  "name": "Jack and cola"
+}, {
+  "name": "Irish Coffee"
+}, {
+  "name": "Harvey Wallbanger"
+}, {
+  "name": "7 & 7"
+}, {
+  "name": "Whiskey Sour"
+}, {
+  "name": "Mint Julep"
+}, {
+  "name": "Godfather"
+}, {
+  "name": "Rusty Nail"
+}, {
+  "name": "Manhattan"
+}, {
+  "name": "Piña Colada"
+}, {
+  "name": "Rum and cola"
+}, {
+  "name": "Hurricane"
+}, {
+  "name": "Mojito"
+}, {
+  "name": "Mai Tai"
+}, {
+  "name": "Zombie"
+}, {
+  "name": "Gin and Tonic"
+}, {
+  "name": "Tom Collins"
+}, {
+  "name": "Singapore Sling"
+}, {
+  "name": "Blue Lady"
+}, {
+  "name": "Dirty Martini"
+}, {
+  "name": "Gibson"
+}, {
+  "name": "Irish Trash Can"
+}, {
+  "name": "Adios Motherucker"
+}, {
+  "name": "Black Opal"
+}, {
+  "name": "Long Island Iced Tea"
+}, {
+  "name": "Baltimore Zoo"
+}, {
+  "name": "Tokyo Tea"
+}, {
+  "name": "Grateful Dead"
+}, {
+  "name": "Midori Sour"
+}, {
+  "name": "Jägerbomb"
+}, {
+  "name": "Grasshopper"
+}, {
+  "name": "Mudslide"
+}, {
+  "name": "Pink Squirrel"
+}, {
+  "name": "Angel's Tit"
+}, {
+  "name": "Amaretto Sour"
+}, {
+  "name": "Shit on Grass"
+}, {
+  "name": "Beer"
+}, {
+  "name": "Wine"
+}, {
+  "name": "Cocktail"
+}]

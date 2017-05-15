@@ -10,6 +10,19 @@ body {
   overflow-x: visible !important;
 }
 
+.logo{
+  position: absolute;
+  top: 20%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.logo img{
+  width: 75%;
+  max-width: 500px
+}
+
 #row1 {
   opacity: 0;
 }
@@ -27,7 +40,11 @@ body {
   -moz-transition: all 1s;
   -o-transition: all 1s;
   transition: all 1s;
+}
 
+.fullWrapper-top {
+  padding: 0;
+  height: 50px;
 }
 
 .fullWrapperUp {
@@ -47,6 +64,10 @@ body {
   // -ms-transform: translate(-50%);
   // -webkit-transform: translate(-50%);
   // transform: translate(-50%);
+}
+
+.fullInner-top {
+  max-width: 100%;
 }
 
 h1 {
@@ -73,11 +94,12 @@ h3 {
   height: 100%;
   width: 100%;
   background-color: gray;
+  color: white;
 }
 
 .dName {
-  font-family: $sansserif;
-  color: white;
+  font-family: $helvetica;
+  // color: white;
   font-weight: bold;
   font-size: 18px;
   position: absolute;
@@ -86,8 +108,8 @@ h3 {
 }
 
 .dSub {
-  font-family: $sansserif;
-  color: white;
+  font-family: $helvetica;
+  // color: white;
   font-weight: 300;
   font-style: italic;
   position: absolute;
@@ -97,8 +119,8 @@ h3 {
 }
 
 .dLeft {
-  font-family: $sansserif;
-  color: white;
+  font-family: $helvetica;
+  // color: white;
   font-weight: 300;
   position: absolute;
   left: 25px;
@@ -106,8 +128,8 @@ h3 {
 }
 
 .dRight {
-  font-family: $sansserif;
-  color: white;
+  font-family: $helvetica;
+  // color: white;
   font-weight: 300;
   font-style: italic;
   position: absolute;
@@ -130,12 +152,10 @@ svg {
   position: absolute;
   bottom: 35px;
   left: 50%;
-  -ms-transform: translate(-50%);
-  -webkit-transform: translate(-50%);
-  transform: translate(-50%);
-  -ms-transform: scale(2);
-  -webkit-transform: scale(2);
-  transform: scale(2);
+  width: 100px;
+  -ms-transform: translate(-50%) scale(2);
+  -webkit-transform: translate(-50%) scale(2);
+  transform: translate(-50%) scale(2);
 }
 
 #searchHome {
@@ -154,6 +174,43 @@ svg {
   box-shadow: none !important;
   color: $dark-gray !important;
   border-bottom: 2px solid $dark-gray !important;
+}
+
+input {
+  border: none;
+}
+
+#input-tags-selectized {
+  text-align: left;
+  font-family: $sansserif;
+  font-size: 62px;
+  height: 100px;
+  width: 100%;
+}
+
+.selectize-input {
+  border: none !important;
+  box-shadow: none !important;
+  text-align: left;
+  border: none !important;
+  border-radius: 0 !important;
+  border-bottom: 2px solid $medium-gray !important;
+  color: $medium-gray !important;
+}
+
+.selectize-input div {
+  background-color: yellow;
+}
+
+
+.selectize-input-top {
+  background-color: $dark-gray !important;
+  border: none !important;
+  color: white !important;
+}
+
+.selectize-dropdown {
+  text-align: left;
 }
 
 .under {
@@ -193,4 +250,113 @@ svg {
   -ms-transform: translate(-50%, 100vh);
   -webkit-transform: translate(-50%, 100vh);
   transform: translate(-50%, 100vh);
+}
+
+.svgMain {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
+
+.drinkOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  padding: 0 15px 0 15px;
+}
+
+.drinkOverlay-inner {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  height: 100%;
+  width: calc(100% - 30px);
+  background-color: rgba(0,0,0,.75)
+}
+
+.oLt {
+  font-size: .75em;
+  color: #aaa;
+  margin-top: 10px;
+}
+
+.oLm {
+  text-transform: capitalize;
+}
+
+.exit {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.exit:hover {
+  color: $medium-gray;
+}
+
+.header {
+  background-color: $dark-gray;
+  min-height: 50px;
+  width: 100%;
+}
+
+.valoredacercare {
+   width: 100%;
+   height: 44px;
+   padding: 8px 5%;
+   font-size: 22px;
+   border-radius: 3px;
+   background-color: #eee;
+   border: 0;
+   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+   transition: box-shadow 0.2s ease-in-out;
+}
+
+.valoredacercare:hover {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+}
+
+.tag {
+  color: white;
+  padding: 5px 5px 5px 10px;
+  border: 1px solid white;
+  border-radius: 30px;
+  width: auto;
+  text-transform: capitalize;
+}
+
+.tags span {
+   background-color: none;
+   color: white;
+   padding: 5px 8px;
+   border: 1px solid white;
+   border-radius: 3px;
+   margin: 5px;
+   display: inline-block;
+}
+
+.results > div {
+  color: white;
+  cursor: pointer;
+  padding: 5px 5%;
+  border-bottom: 1px solid #eee;
+}
+
+.results > div:hover {
+  font-weight: bold;
+}
+
+.removeTag {
+   cursor: pointer;
+   // padding: 1px 6px;
+   margin-left: 8px;
+   opacity: 0.6;
+   transition: opacity 0.2s linear;
+}
+
+.removeTag:hover {
+  opacity: 1;
 }
