@@ -282,6 +282,17 @@ function drinkClick(thisDrink) {
   })
 }
 
+$(".infoCredits").on("click", function(event) {
+  $(".infoOverlay").css("display", "block");
+})
+
+$(".infoOverlay").on("click", function(event) {
+  $(".infoOverlay").css("display", "none");
+})
+
+$(".exit2").on("click", function(event) {
+  $(".infoOverlay").css("display", "none");
+})
 
 
 
