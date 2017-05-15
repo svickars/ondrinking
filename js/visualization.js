@@ -72,7 +72,6 @@ setTimeout(function() {
 
   $('.input-tags').focusin(function() {
     selectize.close();
-    console.log("focus")
   })
 
   $('.input-tags').on("change", function(event) {
@@ -95,12 +94,12 @@ var options = {
   maxPatternLength: 32,
   minMatchCharLength: 1,
   keys: [
-    "name",
+    "drink",
     "type",
+    "name",
     "category",
     "sub",
-    "left",
-    "drink"
+    "left"
   ]
 };
 
@@ -120,7 +119,6 @@ function newSearch(values) {
       var result0 = fuse.search(value0);
       searchResults = result0;
       drawDranks(result0);
-      console.log(result0);
     } else {
       if (values.length === 2) {
         var fuse = new Fuse(terms, options);
@@ -129,7 +127,6 @@ function newSearch(values) {
         var result1 = fuse1.search(value1);
         searchResults = result1;
         drawDranks(result1);
-        console.log(result1);
       } else {
         if (values.length === 3) {
           var fuse = new Fuse(terms, options);
@@ -140,7 +137,6 @@ function newSearch(values) {
           var result2 = fuse2.search(value1);
           searchResults = result2;
           drawDranks(result2);
-          console.log(result2);
         } else {
           if (values.length === 4) {
             var fuse = new Fuse(terms, options);
@@ -153,7 +149,6 @@ function newSearch(values) {
             var result3 = fuse3.search(value3);
             searchResults = result3;
             drawDranks(result3);
-            console.log(result3);
           }
         }
       }
@@ -174,7 +169,6 @@ function newSearch(values) {
 //     searchTerm = value;
 //     drawDranks(result);
 //     // launchSearch(result);
-//     console.log(searchResults);
 //   })
 // }
 
@@ -200,7 +194,8 @@ function drawDranks(data) {
       name = d.name,
       type = d.type,
       sub = d.sub,
-      left = d.left;
+      left = d.left,
+      code = d.code;
 
     var drinkContainer = d3.select("#row1").append("div").attr("class", "dRemove box col-md-3 col-sm-4 col-xs-12").attr("id", "drank-" + i).html('<div class="dRemove box_inner" id="box_inner-' + i + '"></div>');
     $(".box").css("height", $(".box").width() + "px");
@@ -241,7 +236,7 @@ function drawDranks(data) {
       .attr("class", "dGlass")
       .attr("id", "dGlass-" + i);
 
-    $("#dGlass-" + i).html(d.code);
+    $("#dGlass-" + i).html(code.replace(/(\r\n|\n|\r)/gm, ""));
     // .html(d.code);
 
     d3.select("#row1").transition().delay(2000).duration(1000).style("opacity", 1);
