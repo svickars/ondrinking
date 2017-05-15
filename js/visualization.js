@@ -80,7 +80,7 @@ setTimeout(function() {
     values = values.split(",")
     newSearch(values);
   });
-}, 10);
+}, 150);
 
 
 var searchResults = [],
